@@ -169,29 +169,19 @@
 // console.log(typeof(d));
 
 //task13
-let a = 5 < 6;
-let b = 5 == 6;
-let c = 5 >6;
-let d = 5 >= 6 ;
-let e = 10 <= 10; 
-let f = 10 == 10 ;
-let g = 10 > 10 ;
-let k = 10 < 10 ;
-let l = 10 != 10 ;
-let p = 123 === '123'; 
-let o = 123 == '123' ; 
+let a = 5 < 6; =>true
+let b = 5 == 6; =>false
+let c = 5 >6; =>false
+let d = 5 >= 6 ; =>false
+let e = 10 <= 10; =>true
+let f = 10 == 10 ; =>true
+let g = 10 > 10 ; =>false
+let k = 10 < 10 ; =>false
+let l = 10 != 10 ; =>false
+let p = 123 === '123'; =>false
+let o = 123 == '123' ;  =>true
 
-console.log(a);
-console.log(b);
-console.log(c);
-console.log(d);
-console.log(e);
-console.log(f);
-console.log(g);
-console.log(k);
-console.log(l);
-console.log(p);
-console.log(o);
+
 
 
 
